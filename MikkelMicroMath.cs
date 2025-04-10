@@ -33,7 +33,7 @@ namespace MikkelMicroMath
         }
         // approved server side
 
-        public int subtract(int a, int b)
+        public int Subtract(int a, int b) // Med lille startbogstav
         {
             return a - b;
         }
