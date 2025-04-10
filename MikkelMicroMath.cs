@@ -18,5 +18,17 @@ namespace MikkelMicroMath
         {
             return a + b;
         }
+
+        /// <summary>
+        /// Lægger 3 tal sammen
+        /// </summary>
+        /// <param name="a">første tal</param>
+        /// <param name="b">andet tal</param>
+        /// <param name="c">tredje tal</param>
+        /// <returns>returnere sum af a, b og c</returns>
+        public int Add3Numbers(int a, int b, int c)
+        {
+            return a + b + c;
+        }
     }
 }
