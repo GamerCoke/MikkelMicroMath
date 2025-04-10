@@ -31,5 +31,6 @@ namespace MikkelMicroMath
         {
             return a + b + c; // adds 3 numbers 
         }
+        // approved server side
     }
 }
