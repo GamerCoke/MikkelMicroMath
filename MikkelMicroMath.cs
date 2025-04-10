@@ -29,7 +29,7 @@ namespace MikkelMicroMath
         /// <returns>returnere sum af a, b og c</returns>
         public int Add3Numbers(int a, int b, int c)
         {
-            return a + b + c;
+            return a + b + c; // adds 3 numbers 
         }
     }
 }
