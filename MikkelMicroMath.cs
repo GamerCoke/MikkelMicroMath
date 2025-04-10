@@ -32,5 +32,10 @@ namespace MikkelMicroMath
             return a + b + c; // adds 3 numbers 
         }
         // approved server side
+
+        public int subtract(int a, int b)
+        {
+            return a - b;
+        }
     }
 }
