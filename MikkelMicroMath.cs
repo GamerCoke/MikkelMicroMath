@@ -18,6 +18,7 @@ namespace MikkelMicroMath
         {
             return a + b;
         }
+        // approved server side
 
         /// <summary>
         /// Lægger 3 tal sammen
