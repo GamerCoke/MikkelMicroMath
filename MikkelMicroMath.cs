@@ -38,9 +38,17 @@ namespace MikkelMicroMath
             return a - b;
         }
 
-        public int multiply(int a, int b) // D:
+        public int Multiply(int a, int b) // D:
         {
             return a * b;
+        }
+
+        public int Potens(int a, int b)
+        {
+            int result = 0;
+            for (int i = 0; i<b ; i++)
+            { result = a* a; }
+            return result;
         }
     }
 }
